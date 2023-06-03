@@ -1,0 +1,28 @@
+header{
+    width: 98..05%;
+    height: 50px;
+    padding: 15px;
+    padding-top: 30px;
+    color: rgb(1, 81, 143);
+text-align: center;
+}
+a.nav-link-active {
+    color: rgb(255, 119, 0);
+  }
+.line{
+    text-align: center;
+    width:75%;
+    background-color: #242847;
+    border: 5px;
+    min-height:2px;
+    margin-left: 200px;
+}
+header a{
+   
+    margin-left: 30px;
+    text-decoration: none;
+    color: rgb(41, 120, 190);
+}
+header a:hover{
+    color:rgb(162, 162, 136);
+}

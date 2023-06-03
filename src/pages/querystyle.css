@@ -1,0 +1,43 @@
+.page-section {
+    
+    border-radius: 0px;
+   
+  }
+  .section-lefts {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+  }
+  .section-items {
+    width: 500px;
+    height: 10vh;
+    border-radius: 5px;
+    margin: 5px 0;
+  }
+  
+  .section-right {
+    border-radius: 5px;
+    width: 500px;
+  }
+  .queryPage
+{width: 100%;
+min-height: 700px;
+}
+.chatBot
+{width: 50%;
+min-height: 500px;
+float: left;
+}
+.faq
+{width: 100%;
+min-height: 450px;
+float: left;
+text-align: center;
+}
+.accdata{
+    text-align: center;
+    cursor: pointer;
+    color: aliceblue;
+    padding: 10px;
+    width: 800px;
+}

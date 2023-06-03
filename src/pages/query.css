@@ -1,0 +1,22 @@
+.queryPage
+{width: 100%;
+min-height: 500px;
+background: rgb(104, 143, 151);
+}
+.chatBot
+{width: 50%;
+min-height: 500px;
+background: rgb(28, 73, 82);
+float: left;
+}
+.faq
+{width: 50%;
+min-height: 500px;
+background: rgb(1, 60, 72);
+float: left;
+}
+.accdata{
+    text-align: left;
+    cursor: pointer;
+    color: aliceblue;
+}
