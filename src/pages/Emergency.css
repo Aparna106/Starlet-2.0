@@ -1,0 +1,28 @@
+#root {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    box-sizing: border-box;
+  }
+  .card {
+    padding: 0px;background-color: #f1f0ec;
+    background-image: linear-gradient(315deg, #076f6f 0%, #a1bec0 74%);
+    width:250px;
+    height: 250px;
+    margin-top:5px;
+    border-radius: 1rem;
+    float: left;
+  }
+ 
+  .wrapper{
+    width: 100%;
+    height: 100vh;
+  }
+  .wrapper1{
+    float: left;
+    width: 200px;
+    height: 350px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }

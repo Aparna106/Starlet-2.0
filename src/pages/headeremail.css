@@ -1,0 +1,136 @@
+body {
+    padding: 0;
+  }
+  p {
+    margin: 0;
+  }
+  .page-wrap {
+
+    
+    
+    padding: 0px;
+    margin: 0px;
+  }
+  .page-hero {
+    padding: 30px 0;
+    text-align: center;
+  }
+  .hero-logo1 {
+    width: 150px;
+    height: 150px;
+    background-image: url(hug.png);
+    background-size: cover;
+    margin: 0 auto;
+    margin-bottom: 10px;
+  }
+
+
+  .emergency{
+    color:aliceblue;
+    
+    
+  }
+  .emergency button{
+    font-size: larger;
+    font-weight: 300;
+    font-weight: bolder;
+    margin: 20px;
+    width: 60%;
+    height: 50px;
+    color: #156663;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+  }
+
+.emergency a{text-decoration: none;
+color: rgb(18, 141, 155);}
+  .page-features {
+    padding: 30px 0;
+    display: flex;
+    justify-content: center;
+  }
+  .feature-item {
+    width: 25vw;
+    height: 70vh;
+    border-radius: 0px;
+    background-color: #fdb04c;
+background-image: linear-gradient(319deg, #ae7607 0%, #ff9c32 37%, #2fcbe0 100%);
+
+    margin: 0 10px;
+  }
+  .x{width: 550px;
+    color: #ffffff;
+  height: 400px;
+  margin-bottom: 50px;
+  background: linear-gradient(171.8deg, rgb(5, 111, 146) 13.5%, rgb(6, 57, 84) 78.6%);
+margin-left: 500px;
+padding-left: 60px;
+}
+.x input button{
+  width: 130px;
+  height: 40px;
+  background: #ffffff;
+}
+  .x input{
+    
+    width:450px;
+    height: 30px;
+  }
+
+  .x textarea{
+    
+    width:450px;
+    height: 30px;
+  }
+  .page-section {
+    margin: 15px;
+    border-radius: 0px;
+    padding: 15px;
+    display: flex;
+  }
+  .section-left {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  .section-item {
+    width: 90%;
+    height: 10vh;
+    border-radius:10px;
+    margin: 5px 0;
+    background-color: #a40606;
+background-image: linear-gradient(315deg, #a40606 0%, #d98324 74%);
+color: #ffffff;
+
+    margin-left:80px ;
+    overflow: hidden;
+  }
+  .section-item:hover{
+    height: 30vh;
+  }
+  .section-right {
+    background-color: deepskyblue;
+    border-radius: 5px;
+    width: 50%;
+  }
+  .page-footer {
+    background-color: skyblue;
+    padding: 10px 15px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .footer-logo {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: deepskyblue;
+  }
+  .footer-right {
+    display: flex;
+  }
+  .footer-item {
+    background-color: gray;
+    width: 50px;
+    border-radius: 10px;
+    margin: 0 5px;
+  }

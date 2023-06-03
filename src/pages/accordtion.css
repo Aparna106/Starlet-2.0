@@ -1,0 +1,15 @@
+.accordion-header{
+    width: 600px;
+    height: 50px;background-image: linear-gradient(to right, #8360c3, #2ebf91);
+    
+}
+.accordion-content{
+    width: 600px;
+    min-height: 100px;
+    background-color: rgb(244, 242, 242);
+    color: rgb(160, 73, 2);
+    border-radius: 0px 0px 20px 20px;
+}
+.accordion{
+    text-align: center;
+}

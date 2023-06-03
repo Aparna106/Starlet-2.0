@@ -1,0 +1,89 @@
+.createPostPage{
+    width: 100%;
+    min-height: 550px;
+}
+.createPostPage button{
+  width: 30%;
+  height: 40px;
+  background-color:  #80ced7;
+  border: 0px;
+  color: #022b39;
+}
+.cpContainer{
+    width: 100%;
+    min-height: 350px;
+}
+.cpContainer h1{
+    padding: 0px;
+    margin: 0px;
+}
+.voice{
+    width: 55%;
+    border-radius: 100px;
+    margin: 20px;
+    color: #056282;
+    margin-top: 10px;
+    min-height: 200px;
+    background-color: #007ea7;
+    background-image: linear-gradient(315deg, #007ea7 0%, #80ced7 74%);
+}
+
+.createPostPage {
+    width: 100%;
+    display: grid;
+    place-items: center;
+  }
+  
+  .cpContainer {
+    width: 750px;
+    height: auto;
+    padding: 20px;
+    margin: 10px;
+    background-color: #34acb9;
+    background-image: linear-gradient(315deg, #80ced7, #007ea7 ,0% 74%);
+    border-radius: 12px;
+    color: white;
+    float: left;
+  }
+  
+  .cpContainer h1 {
+    text-align: center;
+  }
+  
+  .cpContainer label {
+    font-size: 25px;
+  }
+  .cpContainer .inputGp {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .inputGp input,
+  .inputGp textarea {
+    font-size: 18px;
+    border: none;
+    border-radius: 2px;
+    padding: 5px;
+  }
+  
+  .inputGp input {
+    height: 40px;
+  }
+  .inputGp textarea {
+    height: 150px;
+  }
+  
+  .cpContainer button {
+    margin-top: 20px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+  }
+  input,
+  textarea {
+    margin-top: 5px;
+  }
+  
