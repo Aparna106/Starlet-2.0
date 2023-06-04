@@ -1,16 +1,14 @@
 import "./Emergency.css";
 
 function Hero3() {
-
     return (
         <div className="hero" xyz="fade down small duration-30">
             <div className="card xyz-nested">
-                <h3>TOURIST HELPLINE</h3>
-                <h4>1363</h4>
+                <h3>FIRE SERVICE</h3>
+                <h4>101</h4>
                 <p>
-                    The 24x7 Tourist Helpline number is dedicated to assisting
-                    tourists in India with any travel-related queries,
-                    emergencies, or general assistance.
+                    Contact the fire service by dialing 101 in case of fire
+                    emergencies or to report a fire incident.
                 </p>
             </div>
         </div>
@@ -18,4 +16,3 @@ function Hero3() {
 }
 
 export default Hero3;
-

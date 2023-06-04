@@ -7,8 +7,11 @@ export default function Headeremail() {
         <div className="hero-logo1 xyz-nested"></div>
         <p className="hero-text xyz-nested">
         <h1>WE ARE THERE FOR YOU</h1>
-        <p>Women face many issue like unwanted stalking ,inappropriate touch ,Accepting such
-         Incidents as Part of the Everyday Reality of Being a Woman.Don't scare share with us We are there for you.</p>
+        <p>
+        Many women have faced issues because of their gender, but have not talked about it or reported it because of stigma. <br/>So use this anonymous email box to let us know about issues 
+        you face during your travels and let us help you with it. Your details will NOT be known to us.
+        </p>
+
         </p>
       </div>
     );
