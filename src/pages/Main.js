@@ -22,7 +22,6 @@ function Main() {
 <div className="line"></div><br/>
     <div className="y"><Mock/></div>
     </>
-  
   );
 }
 

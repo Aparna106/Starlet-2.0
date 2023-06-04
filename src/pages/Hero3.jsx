@@ -1,6 +1,7 @@
 import "./Emergency.css";
 
 function Hero3() {
+
     return (
         <div className="hero" xyz="fade down small duration-30">
             <div className="card xyz-nested">
@@ -17,3 +18,4 @@ function Hero3() {
 }
 
 export default Hero3;
+

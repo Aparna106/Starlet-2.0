@@ -4,6 +4,7 @@ import "@animxyz/core";
 import { XyzTransition } from "@animxyz/react";
 import React from "react";
 import { Link } from "react-router-dom";
+
 export default function Destination() {
  
   return (
@@ -27,6 +28,7 @@ export default function Destination() {
 
     <div className="a"></div>
    <div className="acontent">
+
     <h3>River Ganga</h3>
     
     <div className="small">
@@ -45,6 +47,7 @@ export default function Destination() {
     <div className="acontent">
  
  <h3>Best @  5pm</h3>
+
  
  <div className="small">
    <div className="lg"></div>
@@ -63,6 +66,7 @@ export default function Destination() {
     <div className="acontent">
  
  <h3>Best @ 7pm</h3>
+
  
  <div className="small">
    <div className="lg"></div>
@@ -75,11 +79,6 @@ export default function Destination() {
  </div>
     </div>
     </section>
-    
-  
-
-
-    
     <section className="secW">
     
   
@@ -95,6 +94,7 @@ export default function Destination() {
       <div className="lgW"></div>
       <div className="llW"><h4>location 1</h4></div>
       <div className="btW">
+
         <button>DISCOVER</button>
       </div>
 
@@ -112,6 +112,7 @@ export default function Destination() {
    <div className="lgW"></div>
    <div className="llW"><h4>location 2</h4></div>
    <div className="btW">
+
      <button>DISCOVER</button>
    </div>
 
@@ -130,6 +131,7 @@ export default function Destination() {
    <div className="lgW"></div>
    <div className="llW"><h4>location 3</h4></div>
    <div className="btW">
+
      <button>DISCOVER</button>
    </div>
 

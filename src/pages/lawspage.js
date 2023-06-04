@@ -1,3 +1,4 @@
+<<<<<< com-2
 import "./styles.css";
 export default function Laws() {
     return (

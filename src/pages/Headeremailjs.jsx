@@ -11,6 +11,7 @@ export default function Headeremail() {
         Many women have faced issues because of their gender, but have not talked about it or reported it because of stigma. <br/>So use this anonymous email box to let us know about issues 
         you face during your travels and let us help you with it. Your details will NOT be known to us.
         </p>
+
         </p>
       </div>
     );

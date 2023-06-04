@@ -3,7 +3,7 @@ header{
     height: 50px;
     padding: 15px;
     padding-top: 30px;
-    font-style: bold;
+    ont-style: bold;
 text-align: center;
 transition: 2s;
 }
@@ -30,5 +30,5 @@ header a{
 header a:hover{
     color:rgb(151, 151, 123);
     stroke: #242847;
-    transform: scale(1.2);
+  transform: scale(1.2);
 }
